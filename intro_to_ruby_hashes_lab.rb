@@ -1,10 +1,9 @@
 def new_hash
-  actor_hash = {{:actor => {:name => "Jason Bateman"}}}
+  new_hash =>{}
 end
 
 def actor
-  
-
+  actor_hash = {{:actor => {:name => "Jason Bateman"}}}
 end
 
 def monopoly

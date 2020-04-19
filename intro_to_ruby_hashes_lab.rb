@@ -7,6 +7,8 @@ end
 def actor
   actor => {"name" => "Jason Bateman"}
 end
+actor
+end
 
 def monopoly
 	monopoly = {}

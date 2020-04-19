@@ -1,5 +1,5 @@
 def new_hash
-  actor_hash = {{:actor => }}
+  actor_hash = {{:actor => {:name}}}
 end
 
 def actor
